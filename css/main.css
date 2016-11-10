@@ -49,10 +49,7 @@
   -o-flex-wrap: wrap;
   flex-wrap: wrap; }
 
-@media screen and (min-width: 400px) {
-  .sale-item {
-    width: 50%;
-    padding: 10px 5px; } }
+
 .sale-item > .pic {
   background-size: cover;
   height: 250px;
